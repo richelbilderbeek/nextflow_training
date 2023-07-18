@@ -1,5 +1,11 @@
 ## Errors
 
+## Where is the data?
+
+At [https://github.com/nextflow-io/training/tree/master/nf-training/data](https://github.com/nextflow-io/training/tree/master/nf-training/data).
+
+### Got permission denied while trying to connect to the Docker daemon socket
+
 ```
 Error executing process > 'INDEX'
 
